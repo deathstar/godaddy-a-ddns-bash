@@ -8,4 +8,4 @@ This script uses the GoDaddy API to automatically update the A record for your d
 Please see https://techmasterdesign.com/forum/viewtopic.php?f=2&t=955 for directions.
 
 ### Compatability
-This script will work with crontab so you can schedule it to run however you want.
+This script will work with crontab so you can schedule it to run whenever you want.
